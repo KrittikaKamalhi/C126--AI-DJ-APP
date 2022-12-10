@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+}
+
+#heading{
+    font-size: 25px;
+    width: 100%;
+    margin-top: 0px;
+}
+
+#note{
+    color: black;
+    font-size: 17px;
+}
+
+.button{
+    width: 120px;
+    font-size: 20px;
+    border-radius: 15px;
+    margin-top: 15px;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 6px 6px 6px rgb(215, 142, 47);
+}
